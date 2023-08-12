@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Ziming Song, a junior developer
+Ziming Song, a junior developer.
 
-Recently studying Ruby
+Recently studying Ruby.
 
-Welcome to connect
+Welcome to connect.
