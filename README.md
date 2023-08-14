@@ -17,4 +17,4 @@ Ziming Song, a junior developer.
 
 Recently studying Ruby.
 
-Feel free to connect.
+Feel free to get in touch.
