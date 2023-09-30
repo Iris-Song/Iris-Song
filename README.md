@@ -12,7 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=iris-song&show_icons=true&theme=default&hide_title=true" />
 -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iris-song&layout=compact&count_private=true" />
+
 [Ziming Song](https://iris-song.github.io/personal-site/), a junior developer.
 
 Recently studying Ruby.
