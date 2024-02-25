@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=iris-song&show_icons=true&theme=default&hide_title=true" />
 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iris-song&layout=compact&count_private=true" />
-
 ### Hi I'm [Ziming](https://iris-song.github.io/personal-site/) 👋
 
 A junior developer
 
 Feel free to [get in touch](mailto:a1158288818@icloud.com).
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iris-song&layout=compact&count_private=true" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=iris-song&show_icons=true&theme=default&hide_title=true&count_private=true" />
+
