@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iris-song&layout=compact&count_private=true" />
 
-[Ziming Song](https://iris-song.github.io/personal-site/), a junior developer.
+### Hi I'm [Ziming](https://iris-song.github.io/personal-site/) 👋
 
-Recently studying Ruby.
+A junior developer
 
-Feel free to get in touch.
+Feel free to [get in touch](mailto:a1158288818@icloud.com).
