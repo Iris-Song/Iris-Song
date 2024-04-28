@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 A junior developer
 
-Feel free to [get in touch](mailto:a1158288818@icloud.com).
+Feel free to [get in touch](mailto:zimmingsong@icloud.com).
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iris-song&layout=compact&count_private=true" />
 
